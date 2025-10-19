@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the VHDL source code for an **I2C (Inter-Integrated Circuit) Master Controller**. This project was developed as a final assignment for the **"Programmable Digital Systems Design"** course at [University of Tabriz].
+This repository contains the VHDL source code for an **I2C (Inter-Integrated Circuit) Master Controller**. This project was developed as a final assignment for the **"Programmable Digital Systems Design"** course at University of Tabriz.
 
 The primary goal of this project is to implement the I2C communication protocol in VHDL, creating a synthesizable module capable of acting as a master on an I2C bus. The implementation is designed to handle start/stop conditions, send slave addresses, send register addresses, and manage both write and read data transactions.
 
